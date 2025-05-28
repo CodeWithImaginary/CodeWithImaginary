@@ -16,15 +16,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔗 Connect With Me
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zunaidseraj&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Zunaid's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunaidseraj&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunaidseraj&theme=radical" alt="GitHub Streak" />
+  <a href="https://www.linkedin.com/in/zunaid-seraj-0a4641368/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61576457684470">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/imaginarycodex?igsh=cmwzNXp3ZGVyaGUz">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@imaginarycoder?si=oTuEXfuomsDRoMXl">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -52,24 +61,15 @@
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zunaid-seraj-0a4641368/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61576457684470">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/imaginarycodex?igsh=cmwzNXp3ZGVyaGUz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@imaginarycoder?si=oTuEXfuomsDRoMXl">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zunaidseraj&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Zunaid's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunaidseraj&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunaidseraj&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
