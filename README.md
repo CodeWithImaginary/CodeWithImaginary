@@ -12,7 +12,7 @@
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **Flutter, App Development, or any tech stuff**
 - ⚡ Fun fact: **I can code without dying**
-- 📫 How to reach me: [Social Links Below](#-connect-with-me)
+- 📫 How to reach me: Dm me on **Instagram**
 
 ---
 
