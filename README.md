@@ -22,16 +22,16 @@
   <a href="https://www.linkedin.com/in/zunaid-seraj-0a4641368/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61576457684470">
+  <a href="https://www.facebook.com/CodeWithImaginary">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/imaginarycodex?igsh=cmwzNXp3ZGVyaGUz">
+  <a href="https://www.instagram.com/codewithimaginary">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@imaginarycoder?si=oTuEXfuomsDRoMXl">
+  <a href="https://www.youtube.com/@CodeWithImaginary">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:thezunaid.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
