@@ -2,9 +2,7 @@
 <h3 align="center"> Let's build stuff together!✨ </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Enterpreneur+mindset;Flutter+Developer;Open-Source+Enthusiast;Tech+Writer;Problem+Solver" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Enterpreneur+mindset;Flutter+Developer;Open-Source+Enthusiast;Tech+Writer;Problem+Solver" alt="Typing SVG" /></a>
 </p>
 
 ## 🌟 About Me
@@ -44,6 +42,7 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Data Science](https://img.shields.io/badge/Data_Science-4B8BBE?style=for-the-badge&logo=scikitlearn&logoColor=white)  
 
+
 ---
 
 ## 📊 GitHub Stats  
@@ -63,14 +62,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/zunaidseraj/zunaidseraj/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
