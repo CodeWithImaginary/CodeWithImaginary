@@ -2,7 +2,7 @@
 <h3 align="center"> Let's build stuff together!✨ </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Enterpreneur+mindset;Flutter+Developer;Open-Source+Enthusiast;Tech+Writer;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hello+World!;Dont+Forget+to+Follow+me;Open-Source+Enthusiast;Tech+Writer;Problem+Solver" alt="Typing SVG" /></a>
 </p>
 
 ## 🌟 About Me
